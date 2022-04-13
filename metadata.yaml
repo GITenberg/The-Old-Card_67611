@@ -1,0 +1,35 @@
+_repo: The-Old-Card_67611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pertwee, Roland
+    birthdate: 1885
+    deathdate: 1963
+    gutenberg_agent_id: '26017'
+    url: http://www.gutenberg.org/2009/agents/26017
+    wikipedia: https://en.wikipedia.org/wiki/Roland_Pertwee
+description: ''
+gutenberg_issued: '2022-03-12'
+identifiers:
+  gutenberg: '67611'
+  lccn: '19014914'
+language: en
+pgterms:marc904: https://archive.org/details/theoldcard00pertiala
+pgterms:marc905: 20180705194145pertwee
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net from page images generously made available by the
+  Internet Archive
+publication_note: United States :Boni & Liverlight Inc.,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Actors -- Fiction'
+- GITenberg
+title: The Old Card
+url: http://www.gutenberg.org/ebooks/67611
